@@ -1,0 +1,65 @@
+theme: jekyll-theme-minimal
+
+title: queer.love.zine
+description: *Queer Love* is a handmade zine about sex, self-care, & relationships by <a href="https://sexcoachleigh.com">sex coach Leigh Montavon</a> and <a href="https://sarahciston.com">poet-programmer Sarah Ciston</a>. 
+author: @sexcoachleigh & @sarahciston
+
+logo: assets/img/cover.jpg
+# show_downloads: 
+# google_analytics: 
+
+links: 
+  "Buy Now":
+    - "https://buy.stripe.com/9AQ4jtcKt5iuf0kfYZ"
+  "Bonus Merch":
+    - "https://www.bonfire.com/store/coding-care/"
+    links_new_tab: true
+
+## prose.io config
+prose:
+  rooturl: 'posts'
+  siteurl: 'https://sarahciston.github.io/sarahciston/queerlovezine'
+  media: 'assets/img'
+  metadata:
+    posts:
+      - name: "layout"
+        field: 
+          element: "select"
+          value: "default"
+          options: 
+            - name: "default"
+              value: "default"
+            - name: "post"
+              value: "post"
+            - name: "page"
+              value: "page"
+      # - name: "layout"
+      #   field: 
+      #     element: "hidden"
+      #     value: "default"
+      - name: "date"
+        field:
+          element: "text"
+          label: "date"
+          value: CURRENT_DATETIME
+          type: "text"
+      - name: "nav_order"
+        field:
+          element: "number"
+          label: "nav_order"
+          type: "number"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          type: "text"
+      - name: "author"
+        field: 
+          element: "hidden"
+          value: CURRENT_USER
+    users:
+      - login: "sarahciston"
+        user: "Sarah Ciston"
+      - login: ""
+        user: ""
+

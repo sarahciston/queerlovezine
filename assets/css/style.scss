@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=Almendra+Display&family=Anaheim&display=swap');
+
+body {
+  background-color: black;
+  color: antiquewhite;
+  font-family: Roboto Mono, monospace;
+  // font-family: 'Anaheim', monospace;
+}
+
+a, a:visited {
+  color: fuchsia;
+  text-decoration-line: none;
+}
+
+a:hover, a:active {
+  text-decoration-line: underline;
+}
+
+/*
+  Mobile First! Put desktop styles here
+*/
+
+@media screen and (min-width: 768px){
+  body {
+    background: black;
+  }
+}
