@@ -1,9 +1,10 @@
 theme: jekyll-theme-minimal
 title: queer.love.zine
 description: a handmade zine about sex, self-care, & relationships by sex coach Leigh Montavon and poet-programmer Sarah Ciston
-# author: @sexcoachleigh & @sarahciston
+author: sarahciston
 
-logo: assets/img/cover.jpg
+logo: "assets/img/cover.jpg"
+logolink: "https://buy.stripe.com/9AQ4jtcKt5iuf0kfYZ"
 # show_downloads: 
 # google_analytics: 
 
@@ -12,7 +13,7 @@ links:
     - "https://buy.stripe.com/9AQ4jtcKt5iuf0kfYZ"
   "Bonus Merch":
     - "https://www.bonfire.com/store/coding-care/"
-    links_new_tab: true
+links_new_tab: true
 
 ## prose.io config
 prose:
