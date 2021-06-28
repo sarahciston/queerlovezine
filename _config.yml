@@ -1,8 +1,7 @@
 theme: jekyll-theme-minimal
-
 title: queer.love.zine
-description: *Queer Love* is a handmade zine about sex, self-care, & relationships by <a href="https://sexcoachleigh.com">sex coach Leigh Montavon</a> and <a href="https://sarahciston.com">poet-programmer Sarah Ciston</a>. 
-author: @sexcoachleigh & @sarahciston
+description: a handmade zine about sex, self-care, & relationships by sex coach Leigh Montavon and poet-programmer Sarah Ciston
+# author: @sexcoachleigh & @sarahciston
 
 logo: assets/img/cover.jpg
 # show_downloads: 
