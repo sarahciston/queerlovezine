@@ -9,8 +9,10 @@ logolink: "https://buy.stripe.com/9AQ4jtcKt5iuf0kfYZ"
 # google_analytics: 
 
 links: 
-  "Buy Now":
+  "Buy in Print":
     - "https://buy.stripe.com/9AQ4jtcKt5iuf0kfYZ"
+  "See the PDF":
+    - "assets/files/QueerLoveZine-Digital.pdf"
   "Bonus Merch":
     - "https://www.bonfire.com/store/coding-care/"
 links_new_tab: true
