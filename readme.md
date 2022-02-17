@@ -31,4 +31,12 @@
 
 <!-- {:target="_blank"} -->
 
+### Digital Preview
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.12.313/pdf.min.js"></script>
+<script src="assets/js/load.js">
+
+<canvas id="pdf"></canvas>
+
+
 

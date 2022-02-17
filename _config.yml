@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-title: queer.love.zine
-description: a handmade zine about sex, self-care, & relationships by sex coach Leigh Montavon and poet-programmer Sarah Ciston
-author: sarahciston
+title: Queer Love Zine
+description: a handmade zine about sex, self-care, & relationships by <a href="https://sexcoachleigh.com">sex coach Leigh Montavon</a> and <a href="https://sarahciston.com">poet-programmer Sarah Ciston</a>
+author: leighcmontavon, sarahciston
 
 logo: "assets/img/cover.jpg"
 logolink: "https://buy.stripe.com/9AQ4jtcKt5iuf0kfYZ"
@@ -9,11 +9,13 @@ logolink: "https://buy.stripe.com/9AQ4jtcKt5iuf0kfYZ"
 # google_analytics: 
 
 links: 
-  "Buy in Print":
+  "🤑 Buy Your Copy":
     - "https://buy.stripe.com/9AQ4jtcKt5iuf0kfYZ"
-  "See the PDF":
+  "🌈 Preview the PDF":
     - "assets/files/QueerLoveZine-Digital.pdf"
-  "Bonus Merch":
+  "🥰 Donate to QLZ":
+    - ""
+  "🎽 Bonus Merch":
     - "https://www.bonfire.com/store/coding-care/"
 links_new_tab: true
 
