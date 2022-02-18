@@ -21,6 +21,17 @@ a:hover, a:active {
   text-decoration-line: underline;
 }
 
+#canvas-holder {
+  width: inherit;
+  position: relative;
+}
+
+#the-canvas {
+  border: 1px solid black;
+  direction: ltr;
+}
+
+
 /*
   Mobile First! Put desktop styles here
 */

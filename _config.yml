@@ -11,10 +11,10 @@ logolink: "https://buy.stripe.com/9AQ4jtcKt5iuf0kfYZ"
 links: 
   "🤑 Buy Your Copy":
     - "https://buy.stripe.com/9AQ4jtcKt5iuf0kfYZ"
-  "🌈 Preview the PDF":
-    - "assets/files/QueerLoveZine-Digital.pdf"
+  #"🌈 Preview the PDF":
+  # - "assets/files/QueerLoveZine-Digital.pdf"
   "🥰 Donate to QLZ":
-    - ""
+    - "https://venmo.com/u/leigh-montavon"
   "🎽 Bonus Merch":
     - "https://www.bonfire.com/store/coding-care/"
 links_new_tab: true

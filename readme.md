@@ -1,5 +1,19 @@
 <!-- ![cover](cover.jpg) -->
 <!-- + About Us ~ [Leigh](https://sexcoachleigh.com)//[Sarah](https://sarahciston.com) -->
+
+{::options parse_block_html="true" parse_span_html="true" /}
+
+<div id="preview">
+
+<h3>🌈 Digital Preview</h3>
+<canvas id="the-canvas"></canvas>
+<br>
+<button id="prev">last</button>
+<button id="next">next</button>
+<span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
+
+</div>
+
 ### This is just the tip of the iceberg, and these concepts come from many sources. We hope you will use the links listed here for resources and further reading.
 
 * *A* is for Attachment ~ [Clementine Morrigan](https://www.clementinemorrigan.com/product/love-without-emergency-digital)//[Attachment Theory](https://shaver.socialpsychology.org)//[Polysecure](https://thorntreepress.com/polysecure/)
@@ -31,12 +45,8 @@
 
 <!-- {:target="_blank"} -->
 
-### Digital Preview
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.12.313/pdf.min.js"></script>
+<script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
 <script src="assets/js/load.js">
-
-<canvas id="pdf"></canvas>
 
 
 
