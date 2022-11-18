@@ -3,7 +3,7 @@
 
 {::options parse_block_html="true" parse_span_html="true" /}
 
-<div id="preview">
+<!-- <div id="preview">
 
 <h3>🌈 Digital Preview</h3>
 <canvas id="the-canvas"></canvas>
@@ -12,7 +12,7 @@
 <button id="next">next</button>
 <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
 
-</div>
+</div> -->
 
 ### This is just the tip of the iceberg, and these concepts come from many sources. We hope you will use the links listed here for resources and further reading.
 
